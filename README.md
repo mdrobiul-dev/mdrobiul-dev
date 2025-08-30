@@ -1,6 +1,6 @@
 # Hi 👋, I'm Md Robiul  
 
-🚀 **Front-End Developer | Aspiring Fullstack Engineer**  
+🚀 **Front-End Developer | Aspiring Fullstack Developer**  
 
 💡 Enthusiastic and fast-learning developer with hands-on experience in **React.js, Node.js, MongoDB**, and modern web technologies. I focus on writing clean, maintainable code and building responsive, user-friendly applications. Currently leveling up in **TypeScript, Next.js, and Backend Development**.  
 
