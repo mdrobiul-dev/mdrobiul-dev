@@ -18,11 +18,11 @@
 
 ### 🟢 [Chatbird – Real-time Chat App](https://github.com/mdrobiul-dev/Chatbird-frontend)  
 💬 Real-time chat app built with React, Redux Toolkit, Socket.io, and Node.js. Includes authentication and online status tracking.  
-🔗 [Live Demo](https://chatbird-28dg.onrender.com/)
+🔗 [Live Demo](https://chatbird-frontend.onrender.com)
 
 ### 🟢 [MocktailMania – Recipe Web App](https://github.com/mdrobiul-dev/MocktailMania)  
 🍹 Recipe platform using React + Tailwind CSS with API integration for search and filtering.  
-🔗 [Live Demo](https://mocktail-mania.vercel.app/)
+🔗 [Live Demo](https://mocktail-mania-bmad.vercel.app/)
 
 ### 🟢 [FullStack ShortURL](https://github.com/mdrobiul-dev/Fullstack-short-url)  
 🔗 URL shortener with analytics, authentication, Node.js, Express.js, MongoDB, and React frontend.  
