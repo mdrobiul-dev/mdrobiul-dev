@@ -8,7 +8,7 @@
 
 ## 🔧 Tech Stack  
 - **Frontend:** React.js, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap  
-- **Backend (Learning):** Node.js, Express.js, MongoDB, Mongoose  
+- **Backend:** Node.js, Express.js, MongoDB, Mongoose  
 - **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Postman  
 - **Others:** Redux, RESTful APIs, Responsive Design  
 
